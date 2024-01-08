@@ -10,4 +10,4 @@ The **OAT_gifs** folder contains gifs for each of the parameters, and an additio
 
 If you find this manuscript useful for your work do not forget to reference it!
 
-To use these animations contact the repository owner (alejandro.sanchezgomez7@gmail.com)
+To use these animations contact the repository owner (alejandro.sanchezgomez97@gmail.com)
